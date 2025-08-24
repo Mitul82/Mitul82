@@ -20,7 +20,7 @@ I'm passionate about software development, open-source, and continuous learning.
 
 ## 📈 GitHub Stats
 
-![Mitul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mitul&show_icons=true&theme=radical)
+![Mitul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mitul82&show_icons=true&theme=radical)
 
 ## 📚 Currently Learning
 
