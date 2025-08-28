@@ -14,8 +14,8 @@ I'm passionate about software development, open-source, and continuous learning.
 
 - Languages: **JavaScript**, **Python**, **Bootstrap**, **HTML**, **CSS**, **Java**, **C/C++**
 - Frameworks: **Node.js**, **Express.js**
-- Cloud: **AWS**, **Azure**
-- DevOps: **Docker**, **GitHub Actions**, **CI/CD**
+<!--- Cloud: **AWS**, **Azure**
+- DevOps: **Docker**, **GitHub Actions**, **CI/CD** -->
 - Other: **SQL**, **REST APIs**, **MongoDB**
 
 ## 📈 GitHub Stats
