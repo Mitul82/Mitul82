@@ -12,15 +12,16 @@ I'm passionate about software development, open-source, and continuous learning.
 
 ## 🔧 Technologies & Tools
 
-- Languages: **JavaScript**, **Python**, **Bootstrap**, **HTML**, **CSS**, **Java**, **C/C++**
-- Frameworks: **Node.js**, **Express.js**
-<!--- Cloud: **AWS**, **Azure**
-- DevOps: **Docker**, **GitHub Actions**, **CI/CD** -->
-- Other: **SQL**, **REST APIs**, **MongoDB**
+- Frontend: **React.js**, **React Router**, **Context API**, **JavaScript (ES6+)**, **HTML5**, **CSS3**, **Tailwind CSS**, **TypeScript**
+- Backend: **Node.js(TypeScript/ts-node)**, **Express.js**, **MongoDB**, **Redis**, **REST APIs**, **JWT Authentication**, **WebSockets**, **WebRTC**, **GraphQL**
+- State & Data: **TanStack Query (React Query)**, **Redux**
+- Gen AI: **LLM Integration (Llama, Mistral)**, **Hugging Face Inference API**, **Prompt Engineering**
+- Core CS: **Data Structures & Algorithms (DSA)**, **OOP**, **Dynamic Programming**
+- Tools & DevOps: **Git**, **GitHub**, **Docker**, **Nginx**, **MongoDB Atlas**, **Postman**, **VS Code**, **Basic Kubernetes**
 
 ## 📈 GitHub Stats
 
-![Mitul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mitul82&show_icons=true&theme=radical)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mitul82?cardType=github&theme=github-dark&fontFamily=Courier%20Prime&preferLogin=false&Ring=8B4EDD&Title=8B4EDD&borderRadius=16)](https://git.io/awesome-stats-card)
 
 ## 📚 Currently Learning
 
