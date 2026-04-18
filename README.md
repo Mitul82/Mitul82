@@ -21,7 +21,7 @@ I'm passionate about software development, open-source, and continuous learning.
 
 ## 📈 GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mitul82?cardType=github&theme=github-dark&fontFamily=Courier%20Prime&preferLogin=false&Ring=8B4EDD&Title=8B4EDD&borderRadius=16)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mitul82?cardType=level-alternate&theme=dark&fontFamily=Amethysta&showIcons=false&preferLogin=false&Border=DD272700)](https://git.io/awesome-stats-card)
 
 ## 📚 Currently Learning
 
