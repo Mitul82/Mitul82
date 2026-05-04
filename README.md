@@ -93,9 +93,9 @@ A production-ready real-time communication platform enabling instant messaging, 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mitul82&show_icons=true&theme=radical&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats-wheat-two.vercel.app/api?username=Mitul82&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Mitul82)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitul82&layout=compact&theme=radical&hide_border=true)
+[![Top Languages](https://github-readme-stats-wheat-two.vercel.app/api/top-langs/?username=Mitul82&layout=compact&theme=dark)](https://github.com/Mitul82)
 
 </div>
 
