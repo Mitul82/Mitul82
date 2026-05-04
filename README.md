@@ -93,7 +93,7 @@ A production-ready real-time communication platform enabling instant messaging, 
 
 <div align="center">
 
-[![GitHub Stats][(https://awesome-github-stats.azurewebsites.net/user-stats/Mitul82?cardType=level-alternate&theme=dark&fontFamily=Amethysta&showIcons=false&preferLogin=false&Border=DD272700)](https://git.io/awesome-stats-card)
+[![My Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mitul82?cardType=level-alternate&theme=dark&fontFamily=Amethysta&showIcons=false&preferLogin=false&Border=DD272700)](https://git.io/awesome-stats-card)
 
 [![Top Languages](https://github-readme-stats-wheat-two.vercel.app/api/top-langs/?username=Mitul82&layout=compact&theme=dark)](https://github.com/Mitul82)
 
