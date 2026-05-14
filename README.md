@@ -139,7 +139,7 @@ I'm always excited to collaborate, discuss tech, or explore new opportunities!
 
 ## 🎯 What I'm Looking For
 
-- 💼 **Full-Time Software Engineering Roles** - Senior Frontend, Backend, or Full Stack positions
+- 💼 **Full-Time Software Engineering Roles** - Junior Frontend, Backend, or Full Stack positions
 - 🚀 **Startup Opportunities** - Building the next generation of tech
 - 🤝 **Freelance & Project-Based Work** - Building custom solutions
 - 👥 **Collaboration & Mentorship** - Learning and growing together
