@@ -16,11 +16,6 @@ I am a Full-Stack MERN Developer with hands-on experience building real-time, sc
 * **State, Data & AI:** TanStack Query (React Query), Redux, Hugging Face API Integration.
 * **Tools & DevOps:** Git, GitHub, Docker, Nginx, MongoDB Atlas, Postman, VS Code, Basic Kubernetes.
 
-### 🏆 Hackathons & Achievements
-* **Hackathon Runner-Up (Feb 2025):** Secured 2nd Place by configuring low-level micro-controller systems paired with real-time GPS sensors, building algorithmic data pipelines to push telemetry updates over cellular networks.
-* **GDG Noida Build-A-Thon (Nov 2025):** Developed an interactive online yoga assistant, executing computer vision models on client hardware to evaluate structural posture markers via real-time camera streams.
-* **College Hackathon (Oct 2025):** Built a centralized operations center dashboard for coordination organizers to capture real-time team registrations and streamline multi-tier administrative queues.
-
 ### 📫 Let's Connect
 * **LinkedIn:** [linkedin.com/in/mitul82](https://www.linkedin.com/in/mitul82)
 * **Email:** [mitulsrivas@gmail.com](mailto:mitulsrivas@gmail.com)
